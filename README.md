@@ -5,5 +5,5 @@ the black tiles represent explored nodes
 
 
 
-![Agent Found Its Path!](A_Star_graph.png)
+![Agent Found Its Path!](A_star_graph.png)
 
